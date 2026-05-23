@@ -29,6 +29,7 @@ Professor e gestor de projetos em robótica educacional e estudante de Ciência 
 ### Contatos
 * E-mail: pedroflnetopatos@gmail.com
 * LinkedIn: https://www.linkedin.com/in/pedro-ferreira-robotica/
+* Instagram: https://www.instagram.com/roboticapedro/
 
 ---
 
