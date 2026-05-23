@@ -1,10 +1,11 @@
-# Pedro
+# Prof. Pedro Ferreira
 
-Estudante de Ciência da Computação na UEPB (5º período) e desenvolvedor backend focado em automação, APIs e infraestrutura.
+Professor e gestor de projetos em robótica educacional e estudante de Ciência da Computação na UEPB (5º período) e desenvolvedor backend focado em automação, APIs e infraestrutura.
 
 ---
 
 ### Atuação atual
+* Técnico da equipe Steel Saints para a Olimpíada Brasileira de Robótica (OBR)
 * Desenvolvimento backend com Python e FastAPI
 * Automação de processos com Selenium e APIs de mensagens
 * Gerenciamento de aplicações e deploys em servidores VPS usando Docker e SQLite
