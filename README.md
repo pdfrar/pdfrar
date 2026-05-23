@@ -33,6 +33,6 @@ Estudante de Ciência da Computação na UEPB (5º período) e desenvolvedor bac
 
 ### Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdfrar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdfrar&layout=compact&theme=dark&langs_count=5" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdfrar&theme=gotham" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdfrar&theme=gotham" height="150" />
 </p>
