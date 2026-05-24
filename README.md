@@ -1,47 +1,67 @@
 # Prof. Pedro Ferreira
 
-Professor e gestor de projetos em robótica educacional e graduando em Ciência da Computação na UEPB e desenvolvedor backend focado em automação, APIs e infraestrutura.
+Computer Science undergraduate at UEPB, educational robotics teacher, and backend developer specializing in APIs, automation, and infrastructure.
 
 ---
 
-### Atuação atual
-* Técnico da equipe Steel Saints para a Olimpíada Brasileira de Robótica (OBR)
-* Monitor da disciplina de Algoritmos do primeiro período há 4 semestres.
-* Extensionista em projetos de robótica educacional para o aprendizado de Java.
-* Desenvolvimento backend com Python e FastAPI
-* Automação de processos com Selenium e APIs de mensagens
-* Gerenciamento de aplicações e deploys em servidores VPS usando Docker e SQLite
-* Bolsista de iniciação tecnológica (PIBITI) pela UFCA
+### Current Work
+* Robotics Coach for the Steel Saints team (Brazilian Robotics Olympiad - OBR).
+* Algorithms Teaching Assistant (4 semesters).
+* Java instructor and extensionist in educational robotics projects.
+* Backend development using Python and FastAPI.
+* Process automation via Selenium and messaging APIs.
+* Application deployment and VPS infrastructure management (Docker, SQLite).
+* Undergraduate Technology Researcher (PIBITI) at UFCA.
 
 ---
 
-### Projetos principais
-* Aulio: Automação de registros escolares rodando em produção via Docker em VPS
-* Miautende: API de triagem veterinária desenvolvida em FastAPI para o projeto PIBITI/UFCA
-* Envalia: Sistema focado em análise e integridade de dados escolares
-* Prognitive: Ensino de Java para alunos do ensino médio da escola SESI de Patos-PB para First Tech Challenge.
+### Main Projects
+* Aulio: School records automation system running in production via Docker on VPS.
+* Miautende: Veterinary triage API built with FastAPI for the PIBITI/UFCA research project.
+* Envalia: System focused on academic data analysis and record integrity.
+* Prognitive: Java teaching initiative for SESI high school students competing in the First Tech Challenge (FTC).
 
 ---
 
-### Stack técnica
+### Tech Stack
+
+* Programming Languages:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/C-141414?style=for-the-badge&logo=c&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" />
 </p>
-* Infraestrutura e bancos: Docker, SQLite, Servidores Linux
 
----
-
-### Contatos
-* E-mail: pedroflnetopatos@gmail.com
-* LinkedIn: https://www.linkedin.com/in/pedro-ferreira-robotica/
-* Instagram: https://www.instagram.com/roboticapedro/
-
----
-
-### Estatísticas
+* Infrastructure & Databases:
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdfrar&theme=gotham" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pdfrar&theme=gotham" height="150" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" />
+</p>
+
+---
+
+### Contact
+<p align="left">
+  <a href="mailto:pedroflnetopatos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="E-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-ferreira-robotica/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/roboticapedro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdfrar&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pdfrar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
