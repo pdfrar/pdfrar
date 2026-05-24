@@ -1,17 +1,17 @@
 # Prof. Pedro Ferreira
 
-Professor e gestor de projetos em robótica educacional e estudante de Ciência da Computação na UEPB (5º período) e desenvolvedor backend focado em automação, APIs e infraestrutura.
+Professor e gestor de projetos em robótica educacional e graduando em Ciência da Computação na UEPB e desenvolvedor backend focado em automação, APIs e infraestrutura.
 
 ---
 
 ### Atuação atual
 * Técnico da equipe Steel Saints para a Olimpíada Brasileira de Robótica (OBR)
+* Monitor da disciplina de Algoritmos do primeiro período há 4 semestres.
+* Extensionista em projetos de robótica educacional para o aprendizado de Java.
 * Desenvolvimento backend com Python e FastAPI
 * Automação de processos com Selenium e APIs de mensagens
 * Gerenciamento de aplicações e deploys em servidores VPS usando Docker e SQLite
 * Bolsista de iniciação tecnológica (PIBITI) pela UFCA
-* Monitor da disciplina de Algoritmos do primeiro período há 4 semestres.
-* Extensionista em projetos de robótica educacional para o aprendizado de Java.
 
 ---
 
@@ -24,7 +24,11 @@ Professor e gestor de projetos em robótica educacional e estudante de Ciência 
 ---
 
 ### Stack técnica
-* Linguagens e bibliotecas: Python, FastAPI, Selenium, Pandas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/C-141414?style=for-the-badge&logo=c&logoColor=white" height="35" />
+</p>
 * Infraestrutura e bancos: Docker, SQLite, Servidores Linux
 
 ---
