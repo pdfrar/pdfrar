@@ -18,7 +18,6 @@ Computer Science undergraduate at UEPB, educational robotics teacher, and backen
 ### Main Projects
 * Aulio: School records automation system running in production via Docker on VPS.
 * Miautende: Veterinary triage API built with FastAPI for the PIBITI/UFCA research project.
-* Envalia: System focused on academic data analysis and record integrity.
 * Prognitive: Java teaching initiative for SESI high school students competing in the First Tech Challenge (FTC).
 
 ---
