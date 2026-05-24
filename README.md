@@ -10,6 +10,8 @@ Professor e gestor de projetos em robótica educacional e estudante de Ciência 
 * Automação de processos com Selenium e APIs de mensagens
 * Gerenciamento de aplicações e deploys em servidores VPS usando Docker e SQLite
 * Bolsista de iniciação tecnológica (PIBITI) pela UFCA
+* Monitor da disciplina de Algoritmos do primeiro período há 4 semestres.
+* Extensionista em projetos de robótica educacional para o aprendizado de Java.
 
 ---
 
@@ -17,6 +19,7 @@ Professor e gestor de projetos em robótica educacional e estudante de Ciência 
 * Aulio: Automação de registros escolares rodando em produção via Docker em VPS
 * Miautende: API de triagem veterinária desenvolvida em FastAPI para o projeto PIBITI/UFCA
 * Envalia: Sistema focado em análise e integridade de dados escolares
+* Prognitive: Ensino de Java para alunos do ensino médio da escola SESI de Patos-PB para First Tech Challenge.
 
 ---
 
