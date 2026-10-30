@@ -7,11 +7,11 @@ Computer Science undergraduate at UEPB, educational robotics teacher, and backen
 ### Current Work
 * Robotics Coach for the Steel Saints team (Brazilian Robotics Olympiad - OBR).
 * Algorithms Teaching Assistant (4 semesters).
-* Java instructor and extensionist in educational robotics projects.
+* Extensionist in educational robotics projects.
+* Teacher trainer in computing education for basic education teachers, in partnership with UEPB.
 * Backend development using Python and FastAPI.
 * Process automation via Selenium and messaging APIs.
 * Application deployment and VPS infrastructure management (Docker, SQLite).
-* Undergraduate Technology Researcher (PIBITI) at UFCA.
 
 ---
 
@@ -19,7 +19,6 @@ Computer Science undergraduate at UEPB, educational robotics teacher, and backen
 * Aulio: School records automation system running in production via Docker on VPS.
 * AulioSoft: Multi-tenant school management SaaS (academic, finance, and communication) integrated with the Aulio WhatsApp bot.
 * Folium: Multi-school print management system with a request approval workflow and stock control.
-* Prognitive: Java teaching initiative for SESI high school students competing in the First Tech Challenge (FTC).
 
 ---
 
